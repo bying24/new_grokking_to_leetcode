@@ -356,7 +356,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
-- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [X] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Permutations II](https://leetcode.com/problems/permutations-ii/)
 - [ ] [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
 - [ ] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
