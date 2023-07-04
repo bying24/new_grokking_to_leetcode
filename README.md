@@ -218,7 +218,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [X] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Tree Depth First Search
 
