@@ -351,7 +351,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [ ] [4Sum](https://leetcode.com/problems/4sum/)
 - [ ] [Loud and Rich](https://leetcode.com/problems/loud-and-rich/)
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
