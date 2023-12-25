@@ -136,7 +136,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
-- [ ] [Find K-Sum Subsets](https://leetcode.com/problems/subarray-sum-equals-k/)?
+- [X] [Find K-Sum Subsets](https://leetcode.com/problems/subarray-sum-equals-k/)?
 
 ## Greedy Techniques
 
