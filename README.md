@@ -280,7 +280,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
 
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [X] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 - [ ] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
 
