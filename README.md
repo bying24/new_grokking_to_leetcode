@@ -294,7 +294,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [X] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 - [ ] [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
 
