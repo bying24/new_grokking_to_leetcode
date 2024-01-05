@@ -230,7 +230,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
-- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [X] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
