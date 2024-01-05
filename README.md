@@ -226,7 +226,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [X] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 - [X] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
