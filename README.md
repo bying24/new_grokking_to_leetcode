@@ -232,7 +232,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 ## Tree Breadth First Search
 
@@ -366,7 +366,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [ ] [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
-- [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
+- [X] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)
 - [ ] [Design File System](https://leetcode.com/problems/design-file-system/)
 - [ ] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
