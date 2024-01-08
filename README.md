@@ -254,7 +254,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Replace Words](https://leetcode.com/problems/replace-words/)
 
-- [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+- [X] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
 
