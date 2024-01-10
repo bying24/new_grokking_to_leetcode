@@ -342,7 +342,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [X] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [X] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-- [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
+- [X] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 - [ ] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 - [X] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ] [Sort List](https://leetcode.com/problems/sort-list/)
