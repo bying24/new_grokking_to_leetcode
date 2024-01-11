@@ -335,7 +335,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 ## Challenge Yourself
 
 - [ ] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
-- [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- [X] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [X] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [X] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
